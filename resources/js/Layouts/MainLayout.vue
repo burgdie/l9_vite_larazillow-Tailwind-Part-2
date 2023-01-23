@@ -1,6 +1,6 @@
 <template>
 <!-- Start Header Section  -->
- <header class="border-b border-gray-200 bg-white dark:border-gray-700 dark:bg-gray-800 w-full">
+ <header class="border-b border-gray-200 bg-white dark:border-gray-700 dark:bg-gray-900 w-full">
   <div class="container mx-auto">
     <!-- Start Navigation  -->
     <nav class="p-4 flex items-center justify-between ">
